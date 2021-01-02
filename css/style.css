@@ -259,7 +259,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 	background-color: #000000;
 }
 .prt_home_wrapper{
-	background-image:url(http://placehold.it/1920X1080);
+	background-image:url(https://storage.needpix.com/rsynced_images/clouds-53.jpg);
 	background-position: center center;
 	background-repeat:no-repeat;
 	background-size:cover;
@@ -317,7 +317,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 .prt_menu_wrapper a{
 	position:absolute;
 	text-transform:uppercase;
-	color:#202020;
+	color:#ffffff;
 	font-size:18px;
 	margin:0px auto;
 	z-index:1;
@@ -904,13 +904,13 @@ input:focus, textarea:focus, select:focus, button:focus {
     transition: all 0.3s;
 }
 .prt_contact_details_box.details_box1{
-	background-image:url(http://placehold.it/450X250);
+	background-image:url(https://images.pexels.com/photos/14613/Life-of-Pix-free-stock-photos-blocks-sky-monument-davideragusa.jpg);
 }
 .prt_contact_details_box.details_box2{
-	background-image:url(http://placehold.it/450X250);
+	background-image:url(https://images.pexels.com/photos/14613/Life-of-Pix-free-stock-photos-blocks-sky-monument-davideragusa.jpg);
 }
 .prt_contact_details_box.details_box3{
-	background-image:url(http://placehold.it/450X250);
+	background-image:url(https://images.pexels.com/photos/14613/Life-of-Pix-free-stock-photos-blocks-sky-monument-davideragusa.jpg);
 }
 /*---------- Services css Start -------*/
 .prt_services_wrapper{
