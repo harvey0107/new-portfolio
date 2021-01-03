@@ -1153,14 +1153,14 @@ input:focus, textarea:focus, select:focus, button:focus {
     background-size: cover;
 }
 #circles-3{
-	background-image:url(http://placehold.it/200X200);
+	background-image:url(https://ndsmithcodecavern.com/images/webdev-logo.jpg);
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #circles-4{
-	background-image:url(http://placehold.it/200X200);
+	background-image:url(https://cdn.auth0.com/blog/nodenpm/logo.png);
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
