@@ -1165,6 +1165,13 @@ input:focus, textarea:focus, select:focus, button:focus {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}    
+#circles-5{
+    background-image:url(https://cdn.auth0.com/blog/nodenpm/logo.png);
+    border-radius: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .circles-decimals {
 	font-size: .4em;
