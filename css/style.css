@@ -317,7 +317,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 .prt_menu_wrapper a{
 	position:absolute;
 	text-transform:uppercase;
-	color:#ffffff;
+	color:#000000;
 	font-size:18px;
 	margin:0px auto;
 	z-index:1;
